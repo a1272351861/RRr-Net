@@ -1,0 +1,2 @@
+python test.py --data-dir /home/zdx/my_shared_data_folder/LOLdataset/our485/low --file-type png --checkpoint-dir ./models/checkpiont/samsung/bestmodel1.pt --k 1.5625 --num-iters 10 --lr 0.0001
+#python test.py --data-dir ./data_root/samsung --file-type png --checkpoint-dir ./models/checkpiont/samsung/best_sampler.pt --k 1.5625 --num-iters 10 --lr 0.0001
